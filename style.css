@@ -103,6 +103,7 @@ h1{
 #author{
     margin-bottom: 0.25rem;
     color: rgb(19,42,66);
+    text-transform:  capitalize;
 }
 
 #job{
